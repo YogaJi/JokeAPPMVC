@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{B29AF8A6-4A98-425C-9D1F-DFE846218A5F}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.JokeAPPMVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/Migrations/20230507022327_Add Joke.cs">
+    <Files>
+      <File FileName="Models/Joke.cs" Line="8" Column="47" />
+      <File FileName="Program.cs" Line="19" Column="40" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="29" Column="117" />
+      <File FileName="Controllers/JokesController.cs" Line="17" Column="58" />
+      <File FileName="Data/ApplicationDbContext.cs" Line="16" Column="1" />
+      <File FileName="Data/Migrations/20230507022327_Add Joke.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JokeAPPMVC" expanded="True">
+            <Node name="JokeAPPMVC" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="app.db" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
